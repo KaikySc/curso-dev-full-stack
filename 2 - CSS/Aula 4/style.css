@@ -1,0 +1,21 @@
+body{ 
+    background: #c4bfbf;
+}
+
+.foto {
+    width: 300px;
+}
+
+p {
+    color: #3a3838;
+}
+
+.foto {
+    border: 5px double black;  /* shorthand */
+    border-radius: 50% 50% 50% 50%;
+    /*
+    border-right: 5px;
+    border-color: black;
+    border-style: double;
+    */
+}

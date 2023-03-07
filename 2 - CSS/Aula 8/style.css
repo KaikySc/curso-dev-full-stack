@@ -1,0 +1,45 @@
+body{ 
+    background: #c4bfbf;
+    font-family: 'Raleway', sans-serif;
+    color: #3a3838;
+}
+
+.foto {
+    width: 200px;
+}
+
+.foto {
+    border: 5px solid black;  /* shorthand */
+    border-radius: 50% 50% 50% 50%;
+    /*
+    border-right: 2px;
+    border-color: black;
+    border-style: double;
+    */
+
+    /* margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 500px; */
+    margin: 30px;
+    box-shadow: 0px 0px 10px rgb(150, 147, 147);
+    
+}
+
+h1{
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(73 73 73);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+p{
+    line-height: 25px;
+}
